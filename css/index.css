@@ -63,7 +63,7 @@
 }
 .category-container .item-list {
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     padding: 0px;
 }
 .works-container .item-list {
