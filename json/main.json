@@ -1,0 +1,15 @@
+{
+    "mainTitle":{
+        "contentType":"main-title",
+        "text":"メインタイトル"
+    },
+    "enviromentTitle":{
+        "contentType":"sub-title",
+        "text":"開発環境"
+    },
+    "usingEnviroment":{
+        "contentType":"figure",
+        "src":["", "", ""],
+        "text":["", "", ""]
+    }
+}

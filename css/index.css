@@ -1,0 +1,79 @@
+.main-visual{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 460px;
+    width: 100%;
+    background-image: url(../images/background/prompt.png);
+    background-size: cover;
+}
+.main-visual p{
+    font-size: 60px;
+    color: #FFFFFF;
+}
+#body {
+    margin: 0 auto;
+    padding: 80px 0px 80px 0px;
+    width: 80%;
+    text-align: center;
+}
+.profile, .skill, .works {
+    padding: 40px 0px;
+}
+.content-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-title span {
+    font-size: 40px;
+}
+.content-icon {
+    height: 40px;
+    width: 40px;
+    margin: 0px 10px 0px 0px;
+}
+.profile-container {
+    display: flex;
+    justify-content: center;
+}
+.profile-icon{
+    height: 240px;
+    width: 240px;
+}
+.profile-text{
+    text-align: left;
+    margin: 0px 0px 0px 20px;
+}
+#myname span, #myname a {
+    font-size: 24px;
+}
+.skill-category {
+    display: flex;
+    flex-flow: row wrap;
+}
+.category-container {
+    width: 50%;
+    margin: 10px 0px 10px 0px; 
+}
+.category-title{
+    font-size: 24px;
+}
+.category-container .item-list {
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px;
+}
+.works-container .item-list {
+    justify-content: center;
+}
+.works-container .item-list li{
+    height: 30%;
+    width: 30%;
+}
+.works-main-visual{
+   height: 100%;
+   width: 100%;
+}
