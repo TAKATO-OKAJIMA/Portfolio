@@ -19,7 +19,7 @@
     width: 80%;
     text-align: center;
 }
-.profile, .skill, .works {
+.profile, .skill, .works, .contact {
     padding: 40px 0px;
 }
 .content-title {
@@ -76,4 +76,7 @@
 .works-main-visual{
    height: 100%;
    width: 100%;
+}
+.contact-mail p {
+    font-size: 40px;
 }

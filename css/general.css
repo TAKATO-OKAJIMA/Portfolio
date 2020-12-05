@@ -48,8 +48,10 @@ p, a, span {
     width: 25px;
     margin: 0px 5px 0px 0px;
 }
-.foot-menu{
-    background-color: #262626;
+#footer {
+    background-color: #262626;  
+}
+.foot-menu {
     height: 50px;
     width: 100%;
 }
@@ -59,4 +61,8 @@ p, a, span {
 .foot-menu .item-list li a {
     padding: 5px 5px 0px 5px;
     width: max-content;
+}
+#footer .copyright{
+    display: flex;
+    justify-content: center;
 }
